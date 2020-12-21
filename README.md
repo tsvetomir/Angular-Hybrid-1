@@ -20,7 +20,7 @@ This application's main component is in Angular.js. It contains links with ui-ro
 which in turn contain inside some mix of Angular.js and Angular components.
 
 The components are color coded, so it's easy to know which component is written in which framework: 
-reddish is Angular.js, blueish is Angular.
+orange is Angular.js, blue is Angular.
 
 ## Browse the code without cloning
 
