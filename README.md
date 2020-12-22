@@ -15,6 +15,8 @@ hybrid application with the Angular CLI.
 This repo is meant to save you some time and serve as a starting point if you are struggling with properly configuring your
 application.
 
+**For a second version of this repo, which integrates also the [Angular Router](https://angular.io/api/router), go [here](https://github.com/dwilches/Angular-Hybrid-2)**
+
 ## What you'll find here
 This application's main component is in Angular.js. It contains links with ui-router to both Angular.js and Angular components,
 which in turn contain inside some mix of Angular.js and Angular components.
