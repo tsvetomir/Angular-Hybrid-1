@@ -1,4 +1,4 @@
-# Angular Hybrid (1)
+# Angular Hybrid 1 (using UI-Router)
 
 This repo shows how to use these technologies combined (hopefully, saving you some suffering):
 
