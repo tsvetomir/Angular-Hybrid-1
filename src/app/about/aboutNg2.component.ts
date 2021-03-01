@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <div class="ng2">
         <h1 class="ng2">About</h1>
         <picture-ng2></picture-ng2>
+        <kendo-grid></kendo-grid>
     </div>
   `,
 })

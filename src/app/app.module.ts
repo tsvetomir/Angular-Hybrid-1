@@ -6,6 +6,10 @@ import { AboutNg2Component } from './about/aboutNg2.component';
 import { PictureNg2Directive } from './upgrades/pictureNg2.directive';
 import { mainNg1ModuleName } from '../ng1';
 import { SettingsNg2Component } from './settings/settingsNg2.component';
+import { GridModule } from '@progress/kendo-angular-grid';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+
 
 @NgModule({
   declarations: [
@@ -15,7 +19,9 @@ import { SettingsNg2Component } from './settings/settingsNg2.component';
   ],
   imports: [
     BrowserModule,
-    UpgradeModule
+    UpgradeModule,
+    GridModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   entryComponents: [
