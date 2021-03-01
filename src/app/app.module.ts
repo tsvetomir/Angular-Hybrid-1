@@ -34,6 +34,6 @@ export class AppModule implements DoBootstrap {
   }
 
   ngDoBootstrap(): void {
-    this.upgrade.bootstrap(document.body, [ mainNg1ModuleName ], { strictDi: true });
+//    this.upgrade.bootstrap(document.body, [ mainNg1ModuleName ], { strictDi: true });
   }
 }
